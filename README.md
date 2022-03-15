@@ -1,7 +1,6 @@
 # MovieFlix 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AugustoCesar/projeto-sds3/blob/master/LICENSE) 
 
-# About the project
+## About the project
 
 MovieFlix is a ReactJS project that make reviews movies and, with the MEMBER profile user logged into the application, the user will be able to type his review of a specific movie and view it in the reviews list immediately after submitting it.
 
